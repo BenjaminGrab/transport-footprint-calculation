@@ -1,0 +1,30 @@
+[
+  {
+    "identifier": "STRAWBERRY_4711",
+    "country": "DE",
+    "description": "Strawberry from Germany",
+    "footprint_value": 10,
+    "footprint_unit": "kgCO2e"
+  },
+  {
+    "identifier": "STRAWBERRY_4713",
+    "country": "IT",
+    "description": "Strawberry from Italy",
+    "footprint_value": 6.4,
+    "footprint_unit": "kgCO2e"
+  },
+  {
+    "identifier": "FLOUR_4715",
+    "country": "DE",
+    "description": "Flour from Germany",
+    "footprint_value": 5.5,
+    "footprint_unit": "kgCO2e"
+  },
+  {
+    "identifier": "FLOUR_4717",
+    "country": "IT",
+    "description": "Flour from Italy",
+    "footprint_value": 7,
+    "footprint_unit": "kgCO2e"
+  }
+]
