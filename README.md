@@ -16,3 +16,8 @@ Start the server at `http://localhost:3000`
 npm start
 ```
 
+## Running unit tests
+
+```
+npm run test
+```
